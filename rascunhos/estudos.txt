@@ -1,0 +1,11 @@
+shortcut visualstudio
+cirar uma ul com 3 li dentro
+ul>li*3
+
+########################
+importante
+z-index
+calc(100px - 70px)
+
+
+array e object 

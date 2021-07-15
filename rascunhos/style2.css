@@ -1,0 +1,73 @@
+#body-contact{
+    background-color: rgb(0, 0, 0);
+    background-image: url(imagens/77d78134db72b56aa1f07c7ed64c0b6a.gif);
+    background-repeat: no-repeat;
+    background-size: 670px;
+    background-position: center 1px;
+
+}
+
+#seta{
+    max-width: 50px;
+    position: absolute;
+    top: 15px;
+    left: 270px;
+    transform: rotateY(180deg);  
+}
+
+#volte{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    position: absolute;
+    top: 2px;
+    left: 330px;
+        
+}
+
+#header{
+    box-sizing: border-box;
+    height: 70px;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #e7e7e7;
+}
+
+#contact{
+    max-height: 1000px;
+
+
+}
+
+
+#atençao{
+    position: absolute;
+    top: 153px;
+    left: 750px;
+}
+
+
+/*-------local data e hora PARA O ROLÉ--------*/
+
+#local{
+    position: absolute;
+    top: 285px;
+    left: 30px;
+}
+
+#data{
+    position: absolute;
+    top: 385px;
+    left: 30px;
+}
+
+#hora{
+    position: absolute;
+    top: 520px;
+    left: 30px;
+}
+
+
+
+/*================================================*/
